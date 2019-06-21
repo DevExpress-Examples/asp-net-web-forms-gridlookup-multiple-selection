@@ -5,6 +5,9 @@
 * [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
 <!-- default file list end -->
 # ASPxGridLookup - How to implement the multiple selection DropDownWindow scenario
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e3467/)**
+<!-- run online end -->
 
 
 <p>This example demonstrates how to use the ASPxGridLookup to select multiple values from a dropdown grid containing lookup items. The ASPxGridLookup is bound with the custom DataItem defined within the "LookUpDataItem" type (contains row field).</p>
