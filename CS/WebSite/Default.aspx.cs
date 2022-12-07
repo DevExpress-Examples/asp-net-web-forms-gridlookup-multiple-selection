@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
-using DevExpress.Web.ASPxGridLookup;
+using DevExpress.Web;
 
 public partial class _Default : System.Web.UI.Page {
     private const int DataItemsCount = 200;

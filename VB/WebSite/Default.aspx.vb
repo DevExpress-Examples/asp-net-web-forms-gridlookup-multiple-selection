@@ -1,6 +1,6 @@
 ﻿Imports System
 Imports System.Collections.Generic
-Imports DevExpress.Web.ASPxGridLookup
+Imports DevExpress.Web
 
 Partial Public Class _Default
 	Inherits System.Web.UI.Page
