@@ -5,7 +5,7 @@
 <!-- default badges end -->
 # Grid Lookup for ASP.NET Web Forms - How to enable multiple selection
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e3467/)**
+**[[Run Online]](https://codecentral.devexpress.com/128530889/)**
 <!-- run online end -->
 
 This example demonstrates how to create a command column and enable multiple selection mode.
