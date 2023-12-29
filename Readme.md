@@ -4,9 +4,6 @@
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
 # Grid Lookup for ASP.NET Web Forms - How to enable multiple selection
-<!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/128530889/)**
-<!-- run online end -->
 
 This example demonstrates how to create a command column and enable multiple selection mode.
 
