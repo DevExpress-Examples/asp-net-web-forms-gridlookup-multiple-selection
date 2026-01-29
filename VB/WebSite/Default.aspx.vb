@@ -18,7 +18,10 @@ Partial Public Class _Default
 		Dim dataSource As New List(Of LookUpDataItem)()
 
 		For i As Integer = 0 To DataItemsCount - 1
-			dataSource.Add(New LookUpDataItem() With {.ID = i, .Text = "Text - " & i.ToString()})
+			dataSource.Add(New LookUpDataItem() With {
+				.ID = i,
+				.Text = "Text - " & i.ToString()
+			})
 		Next i
 
 		Return dataSource
